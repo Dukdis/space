@@ -1,0 +1,52 @@
+[
+  {
+    "title": "“公路车的3D美学：从设计到动画”场景图",
+    "src": "/works/work-1.webp",
+    "kind": "image"
+  },
+  {
+    "title": "“公路车的3D美学：从设计到动画”效果图",
+    "src": "/works/work-2.webp",
+    "kind": "image"
+  },
+  {
+    "title": "“公路车的3D美学：从设计到动画”宣传视频",
+    "src": "/works/work-3.mp4",
+    "kind": "video"
+  },
+  {
+    "title": "“公路车的3D美学：从设计到动画”制作过程图",
+    "src": "/works/work-4.webp",
+    "kind": "image"
+  },
+  {
+    "title": "“夜雾鎏金-夜灯加湿器”参赛展板图",
+    "src": "/works/work-5.webp",
+    "kind": "image"
+  },
+  {
+    "title": "《花之梦境》使用Cinema 4D及插件OC渲染器制作",
+    "src": "/works/work-6.mp4",
+    "kind": "video"
+  },
+  {
+    "title": "《生命的绝望与渴求》渲染图（c4d制作）",
+    "src": "/works/work-7.jpg",
+    "kind": "image"
+  },
+  {
+    "title": "虚拟现实技术与莫高窟壁画沉浸式体验研究",
+    "src": "/works/work-8.webp",
+    "kind": "image"
+  },
+  {
+    "title": "“公路车的3D美学：从设计到动画”制作过程截图",
+    "src": "/works/work-9.webp",
+    "kind": "image"
+  },
+  {
+    "title": "c4d制作视频",
+    "src": "/works/work-10.mp4",
+    "kind": "video"
+  }
+]

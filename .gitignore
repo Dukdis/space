@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.media-originals/
+.env*
+AI创作作品/
+作品案例/
+绘画作品/
+获奖证书/
+个人动漫图.png
+简历.png
+证件照.jpg
