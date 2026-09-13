@@ -1,0 +1,137 @@
+{
+  "settings": {
+    "siteName": "ShuiShui's space",
+    "repository": "Dukdis/space",
+    "branch": "main",
+    "siteUrl": "https://dukdis.github.io/space/"
+  },
+  "hero": {
+    "eyebrow": "DIGITAL MEDIA ART STUDENT",
+    "titleLine1": "用数字媒体艺术",
+    "titleLine2": "探索",
+    "titleHighlight": "无限可能",
+    "description": [
+      "探索视觉设计、交互体验、影像创作与 AI 艺术实验",
+      "用创意连接想象与现实",
+      "创造有温度的数字体验"
+    ],
+    "displayName": "ShuiShui's\nSpace·Welcome",
+    "year": "2026",
+    "avatar": "/avatar-transparent.png",
+    "avatarAlt": "ShuiShui 的动漫形象，戴黑框眼镜，穿蓝色卫衣"
+  },
+  "about": {
+    "name": "澹淼",
+    "role": "数字媒体艺术创作者 · Digital Media Artist",
+    "portrait": "/portrait.jpg",
+    "portraitAlt": "澹淼的证件照",
+    "photoLabel": "SHUISHUI",
+    "photoCaption": "数字媒体艺术 · 在读学生",
+    "facts": [
+      { "label": "民族", "value": "汉族" },
+      { "label": "政治面貌", "value": "中共党员" },
+      { "label": "出生年月", "value": "1997年3月" },
+      { "label": "籍贯", "value": "河南省商丘市" }
+    ],
+    "education": [
+      { "period": "2024.09—2027.06", "detail": "兰州交通大学 · 元宇宙数字媒体艺术（研究生）" },
+      { "period": "2018.09—2022.06", "detail": "兰州交通大学 · 动画（本科）" },
+      { "period": "2019.09—2022.06", "detail": "兰州交通大学 · 会计（辅修双学位）" }
+    ],
+    "skills": [
+      "Maya / Cinema 4D / Unity 3D / Photoshop / Premiere Pro",
+      "摄影、摄像、剪辑、无人机、AI 视觉生成。",
+      "擅长使用 ComfyUI、Stable Diffusion 等主流 AI 工具。"
+    ],
+    "honors": [
+      "2018—2019 · 兰州交通大学三等奖学金",
+      "2019—2020 · 甘肃省美术比赛入围证书",
+      "2019—2020 · 兰州交通大学团体比赛二等奖",
+      "2025 · 兰州交通大学研究生三等奖学金",
+      "2025 · 东方设计奖《夜雾鎏金—夜灯加湿器》全国决赛国赛一等奖",
+      "2025 · 东方设计奖《敦煌壁画古乐器形态蓝牙音响设计》全国决赛国赛二等奖",
+      "2026 · 东方设计奖《公路车的3D美学：从设计到动画》全国决赛国赛三等奖",
+      "第十三届未来设计师 ·《虚拟现实技术与莫高窟壁画沉浸式体验研究》省级三等奖",
+      "第十三届未来设计师 ·《陇上麦浪——原生态桌椅》省级二等奖"
+    ]
+  },
+  "works": {
+    "titleLine1": "让想象成形，",
+    "titleLine2": "让作品",
+    "titleHighlight": "走进视野。",
+    "description": "从数字场景到产品设计，记录每一次创作的探索。",
+    "items": [
+      { "title": "“公路车的3D美学：从设计到动画”场景图", "src": "/works/work-1.webp" },
+      { "title": "“公路车的3D美学：从设计到动画”效果图", "src": "/works/work-2.webp" },
+      { "title": "“公路车的3D美学：从设计到动画”制作过程图", "src": "/works/work-4.webp" },
+      { "title": "“夜雾鎏金-夜灯加湿器”参赛展板图", "src": "/works/work-5.webp" },
+      { "title": "《生命的绝望与渴求》渲染图（c4d制作）", "src": "/works/work-7.jpg" },
+      { "title": "虚拟现实技术与莫高窟壁画沉浸式体验研究", "src": "/works/work-8.webp" },
+      { "title": "“公路车的3D美学：从设计到动画”制作过程截图", "src": "/works/work-9.webp" }
+    ]
+  },
+  "videos": {
+    "title": "视频作品",
+    "description": "让静态的想象，在时间里展开。",
+    "items": [
+      { "title": "“公路车的3D美学：从设计到动画”宣传视频", "src": "/works/work-3.mp4", "poster": "/video-posters/poster-1.jpg" },
+      { "title": "《花之梦境》使用Cinema 4D及插件OC渲染器制作", "src": "/works/work-6.mp4", "poster": "/video-posters/poster-2.jpg" },
+      { "title": "c4d制作视频", "src": "/works/work-10.mp4", "poster": "/video-posters/poster-3.jpg" }
+    ]
+  },
+  "ai": {
+    "title": "归园田居",
+    "titleAccent": "·其三",
+    "description": "陶渊明的诗 · AI 诗意视觉生成",
+    "images": [
+      { "title": "归园田居·其三｜主视觉", "src": "/ai/cover.webp", "label": "01 / 主视觉" },
+      { "title": "归园田居·其三｜场景探索", "src": "/ai/process-1.webp", "label": "03 / 过程图" },
+      { "title": "归园田居·其三｜角色与光影", "src": "/ai/process-2.webp", "label": "04 / 过程图" }
+    ],
+    "video": {
+      "title": "《归园田居·其三》AI 视频创作",
+      "src": "/ai/gui-yuan-tian-ju.mp4",
+      "poster": "/ai/video-poster.webp",
+      "label": "02 / 《归园田居·其三》"
+    }
+  },
+  "paintings": {
+    "titleLine1": "安静地观察，",
+    "titleLine2": "让笔触留下",
+    "titleHighlight": "温度。",
+    "description": "人物速写、动漫、素描及写实绘画。",
+    "items": [
+      { "title": "动漫手稿", "src": "/paintings/art-1-corrected.jpg", "tag": "CHARACTER" },
+      { "title": "马克笔彩绘", "src": "/paintings/art-2.jpg", "tag": "MARKER" },
+      { "title": "素描", "src": "/paintings/art-3.jpg", "tag": "SKETCH" },
+      { "title": "素描绘画", "src": "/paintings/art-4.jpg", "tag": "DRAWING" },
+      { "title": "素描人物", "src": "/paintings/art-5.jpg", "tag": "PORTRAIT" },
+      { "title": "速写模型", "src": "/paintings/art-6.jpg", "tag": "STUDY" },
+      { "title": "速写人物", "src": "/paintings/art-7.jpg", "tag": "FIGURE" },
+      { "title": "写实绘画", "src": "/paintings/art-8.jpg", "tag": "REALISM" }
+    ]
+  },
+  "awards": {
+    "titleLine1": "成长路上拾到的",
+    "titleLine2": "珍贵",
+    "titleHighlight": "贝壳。",
+    "description": "比赛类获奖证书及奖学金证书，此外还有研究生奖学金、校级摄影作品一等奖、优秀志愿者证书等等。",
+    "items": [
+      { "title": "夜雾鎏金——夜灯加湿器", "award": "东方设计奖国家一等奖", "src": "/certificates/certificate-1.jpg" },
+      { "title": "“公路车的3D美学：从设计到动画”", "award": "东方设计奖国家三等奖", "src": "/certificates/certificate-2.jpg" },
+      { "title": "敦煌壁画古乐器形态蓝牙音响设计", "award": "东方设计奖国家三等奖", "src": "/certificates/certificate-3.jpg" },
+      { "title": "虚拟现实技术与莫高窟壁画沉浸式体验研究", "award": "未来设计师省级三等奖", "src": "/certificates/certificate-4.jpg" },
+      { "title": "陇上麦浪——原生态桌椅", "award": "未来设计师省级三等奖", "src": "/certificates/certificate-5.jpg" },
+      { "title": "2019年三等奖学金", "award": "兰州交通大学", "src": "/certificates/certificate-6.jpg" }
+    ]
+  },
+  "contact": {
+    "titleLine1": "下一次灵感，",
+    "titleLine2": "从一句",
+    "titleAccent": "Hello.",
+    "description": ["关于创作、交流，或一个有趣的想法。", "很高兴与你相遇。"],
+    "email": "1963410987@qq.com",
+    "phone": "19893171667",
+    "footer": "ShuiShui. 用好奇心创作。"
+  }
+}
